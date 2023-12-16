@@ -1,0 +1,23 @@
+{
+  "name": "mmm-calendarext",
+  "version": "1.0.0",
+  "description": "Alternative calendar module for [MagicMirror](https://magicmirror.builders/)",
+  "main": "MMM-CalendarExt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tticehurst/MMM-CalendarExt.git"
+  },
+  "keywords": [],
+  "author": "Tom Ticehurst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tticehurst/MMM-CalendarExt/issues"
+  },
+  "homepage": "https://github.com/tticehurst/MMM-CalendarExt#readme",
+  "dependencies": {
+    "valid-url": "^1.0.9"
+  }
+}
